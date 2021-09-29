@@ -94,9 +94,8 @@ body {
   }
   
   .mic {
-    top: 5px;
     width: 24px;
-    left: -50px;
+    right: 20px;
     height: 24px;
     position: relative;
   }
